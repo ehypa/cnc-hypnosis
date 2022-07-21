@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3B3PM6W92"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y3B3PM6W92');
+</script>
+
 ## Welcome to CNC hypnosis
 
 CNC hypnosis is a 18+ discord server that seeks to create a safe and inclusive space for...
