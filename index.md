@@ -9,7 +9,7 @@ You can join the server though disboard
 # <iframe src="https://discord.com/widget?id=997558868202754109&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 -->
 
-<img src="https://discord.com/api/guilds/997558868202754109/widget.png?style=banner4">
+[<img src="https://discord.com/api/guilds/997558868202754109/widget.png?style=banner4">](https://discord.gg/FsK5EPZX5U)
 
 [CNC hypnosis disboard](https://disboard.org/server/997558868202754109)
 
