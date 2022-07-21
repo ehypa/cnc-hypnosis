@@ -5,7 +5,9 @@ well, CNC hypnosis.
 
 You can join the server though disboard
 
-[Join CNC hypnosis](https://disboard.org/server/997558868202754109)
+<iframe src="https://discord.com/widget?id=997558868202754109&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+[CNC hypnosis disboard](https://disboard.org/server/997558868202754109)
 
 ## Beware ##
 
