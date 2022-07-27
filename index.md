@@ -36,6 +36,10 @@ You can join the server though disboard
 
 [CNC hypnosis disboard](https://disboard.org/server/997558868202754109)
 
+## Posts
+
+{% for post in site.posts %}
+
 ## Beware ##
 
 CNC is not for everyone, please be sure you actually are interested in this.
