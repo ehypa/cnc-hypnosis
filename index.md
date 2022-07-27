@@ -56,3 +56,7 @@ CNC is not for everyone, please be sure you actually are interested in this.
 ### Support or Contact
 
 Contact the site owner through said discord server for any inquiries.
+
+# Twitter activity
+
+<a class="twitter-timeline" href="https://twitter.com/cnc_hypnosis?ref_src=twsrc%5Etfw">Tweets by cnc_hypnosis</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
