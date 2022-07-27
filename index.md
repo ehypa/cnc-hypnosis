@@ -45,6 +45,10 @@ You can join the server though disboard
   {% endfor %}
 </ul>
 
+## What is CNC?
+
+Like a lot of terms in kink, Consensual Non-Consent can mean different things in different contexts. In the CNC Hypnosis Discord server, CNC refers agreeing to be hypnotized without being asked for permission first. Should you choose to accept the role in the screening process, others will be free to try to hypnotize you without establishing further consent, and vice versa. This does not mean that you are obligated to engage with anyone, and, as always, “no” still means NO.
+
 ## Beware ##
 
 CNC is not for everyone, please be sure you actually are interested in this.
