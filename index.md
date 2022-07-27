@@ -37,12 +37,10 @@ You can join the server though disboard
 [CNC hypnosis disboard](https://disboard.org/server/997558868202754109)
 
 ## Posts
-
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
