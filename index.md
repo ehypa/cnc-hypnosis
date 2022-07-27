@@ -38,7 +38,14 @@ You can join the server though disboard
 
 ## Posts
 
-{% for post in site.posts %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 ## Beware ##
 
